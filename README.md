@@ -1,6 +1,6 @@
 # Spinner Rack
 
-This is a simple to use comic book reader that supports cbz,cbr and pdf. 
+This is a simple to use comic book reader that supports cbz, cbr and pdf. 
 This is written in python and not feature complete. 
 
 You can currently:
