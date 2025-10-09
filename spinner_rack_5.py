@@ -499,7 +499,7 @@ except (FileNotFoundError, json.JSONDecodeError):
     bookmarks = {}
 
 root = Tk()
-root.iconphoto(True, PhotoImage(file="/home/freedomotter/python/spinner_rack/Comics.png"))
+root.iconphoto(True, PhotoImage(file="Comics.png"))
 root.title('Spinner Rack')
 root.geometry("935x1400")
 
