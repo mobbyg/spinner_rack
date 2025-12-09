@@ -1,5 +1,5 @@
-<img width="800" height="460" alt="image" align="center" src="https://github.com/user-attachments/assets/c32fb5d4-82a3-4684-8e5b-c7e63f5a07b2" />
- 
+<img width="2160" height="934" alt="spinner_rack_logo_v1" src="https://github.com/user-attachments/assets/4dd0003d-65d7-47a5-9982-d62ef9ce6ac1" />
+
 
 This is a simple to use comic book reader that supports cbz, cbr and pdf. 
 This is written in python and not feature complete. 
